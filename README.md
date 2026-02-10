@@ -2,7 +2,7 @@
 
 # A-Maze-ing
 
-- [The repository that we worked on](https://github.com/DawidGajownik/A-Maze-ing#)
+[The repository that we worked on](https://github.com/DawidGajownik/A-Maze-ing#)
 
 ## Description
 
