@@ -2,7 +2,7 @@
 
 # A-Maze-ing
 
-- [The repository that we worked on]([https://medium.com/@batbat.senturk/the-ultimate-unbiased-maze-generation-technique-you-need-to-see-46123d5fec76](https://github.com/DawidGajownik/A-Maze-ing#))
+- [The repository that we worked on](https://github.com/DawidGajownik/A-Maze-ing#))
 
 ## Description
 
