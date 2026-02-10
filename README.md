@@ -2,6 +2,8 @@
 
 # A-Maze-ing
 
+- [The repository that we worked on]([https://medium.com/@batbat.senturk/the-ultimate-unbiased-maze-generation-technique-you-need-to-see-46123d5fec76](https://github.com/DawidGajownik/A-Maze-ing#))
+
 ## Description
 
 This project is an advanced maze generator and visualizer that focuses on real-time rendering, animation, and user interaction.
